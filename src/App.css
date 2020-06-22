@@ -9,6 +9,7 @@
 
 body {
   font-family: 'Sriracha', cursive;
+  padding: 20px 60px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
